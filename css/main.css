@@ -1,7 +1,23 @@
+html {
+	align-content: center;
+	align-items: center;
+	align-self: center;
+	text-align: center;
+	vertical-align: center;
+}
+
 body {
 	background-image: url("../img/image-analysis.png");
+	background-repeat: no-repeat;
+	background-position: top;
+	background-size: cover;
 }
 
 p {
 	color: white;
+}
+
+a {
+	color: red;
+	text-transform: none;
 }
